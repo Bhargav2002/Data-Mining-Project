@@ -1,0 +1,13 @@
+Age,Gender,Important_Words
+18-24,f,"['adventure', 'good', 'message', 'think', 'love', 'fun', 'new', 'friend', 'music', 'talk', 'people', 'interested', 'enjoy', 'conversation', 'read', 'interesting', 'laugh']"
+18-24,m,"['like', 'message', 'talk', 'look', 'fun', 'new', 'love', 'friend', 'conversation', 'hang', 'cool', 'say', 'read', 'awesome', 'girl', 'adventure', 'chat']"
+25-34,f,"['think', 'love', 'intrested', 'friend', 'time', 'humor', 'relationship', 'honest', 'tall', 'serious', 'active', 'awesome', 'intelligent', 'work', 'together', 'travel']"
+25-34,m,"['think', 'talk', 'cool', 'adventure', 'work', 'real', 'honest', 'smart', 'pretty', 'explore']"
+35-44,f,"['relationship', 'enjoy', 'smart', 'date', 'read', 'share', 'passionate', 'intelligent', 'curious', 'music', 'family', 'appreciate']"
+35-44,m,"['good', 'love', 'open', 'great', 'relationship', 'enjoy', 'serious', 'intelligent', 'partner', 'share']"
+45-49,f,"['physical', 'afraid', 'creative', 'family', 'independent', 'serious', 'available', 'emotional', 'passionate', 'healthy', 'humor', 'willing']"
+45-49,m,"['fun', 'conversation', 'appreciate', 'travel', 'experience', 'movie', 'passion', 'attractive', 'sexy', 'spirit', 'connection', 'desire']"
+50-55,f,"['creative', 'integrity', 'spiritual', 'available', 'attractive', 'romantic', 'curious', 'believe', 'intelligent']"
+50-55,m,"['sexy', 'spirit', 'desire', 'dance', 'strong', 'serious', 'healthy', 'appreciate', 'experience', 'kind']"
+56+,f,"['family', 'single', 'attractive', 'compassionate', 'young', 'creative', 'honest', 'curious']"
+56+,m,"['soul', 'kiss', 'lover', 'respect', 'respond', 'playful', 'physical', 'positive', 'passion', 'affectionate', 'child', 'desire']"
